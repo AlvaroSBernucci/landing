@@ -1,0 +1,22 @@
+.card-work {
+  text-align: center;
+}
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+.card {
+  padding: 20px;
+}
+.card img {
+  width: 150px;
+}
+.card h3 {
+  font-size: 1rem;
+}
+.card p {
+  opacity: 0.5;
+  max-width: 20ch;
+}

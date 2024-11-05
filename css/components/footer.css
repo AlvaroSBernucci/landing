@@ -1,0 +1,25 @@
+footer {
+  background-color: #2c2b2b;
+  padding: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.media-list {
+  padding: 0px;
+  list-style: none;
+  display: flex;
+}
+.media-list a {
+  color: #1edd88;
+}
+.media-list i {
+  font-size: 2rem;
+}
+footer p {
+  color: #6b6c6c;
+}
+.coracao {
+  color: red;
+}

@@ -1,0 +1,16 @@
+.banner {
+  color: #fff;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(https://lewagon.github.io/landing-page-challenge/images/background.png);
+  background-position: center;
+  background-size: cover;
+  padding: 200px 0px;
+}
+.banner h1 {
+  font-size: 2rem;
+}
+.banner p {
+  font-size: 1.25rem;
+  opacity: 0.7;
+  margin-bottom: 20px;
+}
